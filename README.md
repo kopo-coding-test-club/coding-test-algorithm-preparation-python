@@ -79,5 +79,12 @@ CODING-TEST-ALGORITHM-PREPARATION-PYTHON/
 ## 💡 Tip
 
 ### Pull Request 제목도 커밋 메시지와 동일하게 작성해 주세요.
-
+<a href="https://www.gitanimals.org/">
+      <img
+        src="https://render.gitanimals.org/guilds/837240898888806643/draw"
+        width="600"
+        height="300"
+        alt="gitanimals"
+      />
+    </a>
 
