@@ -3,7 +3,7 @@ import math
 def solution(n):
     answer = 0;
     array = [True for i in range(n + 1)]
-    
+
     for i in range(2, int(math.sqrt(n)) + 1):
         if array[i] == True:
             j = 2
